@@ -1,1 +1,3 @@
  Run Step1 and Step2 to get results and refer the report for more information (40187593_DES_Project) 
+
+The project involves designing a local controller for an Ozone Generation System using Supervisory Control Theory, specifically focusing on Discrete Event Systems (DES). The system comprises multiple components such as valves, sensors, and a Power Supply Unit, each represented as unique automata. The local controller, implemented in MATLAB using the DECK Discrete Event Control Kit toolbox, acts as a supervisor for the plant model, which encompasses all possible events and interactions in the Ozone Generation System. The project includes the stepwise construction of the plant model, the local controller, and their integration to ensure proper system functioning.
